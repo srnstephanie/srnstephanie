@@ -1,6 +1,6 @@
 # Hi everyone!
 ### My name is **Stephanie Hutagalung**.
-Undergraduate Information System & Technology at Institut Teknology Bandung. 
+Fresh Graduate Information System & Technology at Institut Teknology Bandung. 
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
